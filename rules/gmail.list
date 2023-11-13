@@ -1,2 +1,6 @@
+# More than gmail: Include those banned by VPN providers.
+
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-KEYWORD,gmail
+DOMAIN-SUFFIX,appstorrent.ru
+DOMAIN-SUFFIX,torrentmac.net
